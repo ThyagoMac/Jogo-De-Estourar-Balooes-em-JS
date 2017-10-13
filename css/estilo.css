@@ -1,0 +1,11 @@
+.balao {
+    width: 70px;
+    height: 70px;
+    background-color: #000000;
+    border-radius: 28px 28px 35px 35px;
+    position: absolute;
+    transition: opacity .2s ease;
+}
+#espan, #espan2 {
+    font-size: 30px;
+}
